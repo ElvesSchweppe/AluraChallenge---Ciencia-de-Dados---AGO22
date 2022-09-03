@@ -1,7 +1,8 @@
 # AluraChallenge - Ciência de Dados - AGO22
  Repositório com as atividades do Alura Challenge de Ciência de Dados (AGO/22)
 
-SOBRE O CHALENGE 
+SOBRE O CHALENGE
+
 **Boas-vindas!**
 
 Você foi contratado(a) como pessoa cientista de dados para trabalhar em um banco digital internacional chamado **Alura Cash**. Na primeira reunião do seu novo trabalho, a diretoria financeira informa que, recorrentemente, estão surgindo pessoas inadimplentes após a liberação de créditos. Portanto, é solicitada uma solução para que seja possível diminuir as perdas financeiras por conta de pessoas mutuarias que não quitam suas dívidas.
