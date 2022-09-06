@@ -12,3 +12,7 @@ Como cientista de dados, você sugere um estudo das informações financeiras e 
 Desse modo, você solicita um conjunto de dados que contenha as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuaria é inadimplente ou não. Com esses dados, você sabe que consegue modelar um classificador capaz de encontrar potenciais clientes inadimplentes e solucionar o problema do Alura Cash.
 
 Por fim, você vai utilizar o **GitHub** e desenvolver um **portfólio** focado em Data Science, Data Analytics e Machine Learning.
+
+
+SEMANA 1 - TRELLO
+https://trello.com/invite/b/7OIWYiA3/7eab79cfe8bd478b8857a0bd17f26929/aluracash
